@@ -1,1 +1,1 @@
-# Galeria-de-Cuidades
+# Galeria-de-Ciudades
